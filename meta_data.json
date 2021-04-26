@@ -1,0 +1,13 @@
+{
+    "categories": {
+        "0": "analytics",
+        "1": "customer support",
+        "2": "technical"
+    },
+    "description": "View and save information about a user's device, browser, operating system, and more. Useful for debugging.\n\nLibrary -> https://github.com/zedofficial/plataform.js\nDocumentation -> https://github.com/zedofficial/plataform.js/blob/master/README.md\n\n*Not all information will be available on every device",
+    "image": "//s3.amazonaws.com/appforest_uf/f1619451661597x619929523534080900/By%20ZED%20Official.png",
+    "license": "open_source",
+    "link": "https://airdev.co/",
+    "name": "Platform Detector",
+    "plugin_instructions": "-Add a Platform element to your Bubble page\n-Refer to fields on the Platform element for information on the device, os, and browser/environment\n-Depending on the device, some fields will return null"
+}

@@ -1,0 +1,109 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "Platform",
+    "icon": "ion-android-checkbox-blank",
+    "states": {
+        "AAE": {
+            "caption": "description",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "description",
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "Name (browser/environment)",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "name",
+            "value": "text"
+        },
+        "AAG": {
+            "caption": "Version (browser/environment)",
+            "doc": "asdfasdfsadf",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "version",
+            "value": "text"
+        },
+        "AAH": {
+            "caption": "product",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "product",
+            "value": "text"
+        },
+        "AAI": {
+            "caption": "manufacturer",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "manufacturer",
+            "value": "text"
+        },
+        "AAJ": {
+            "caption": "Layout engine",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "layout",
+            "value": "text"
+        },
+        "AAK": {
+            "caption": "Prerelease info",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "prerelease",
+            "value": "text"
+        },
+        "AAL": {
+            "caption": "User agent string",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "user_agent",
+            "value": "text"
+        },
+        "AAM": {
+            "caption": "OS description",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "os_description",
+            "value": "text"
+        },
+        "AAN": {
+            "caption": "OS family",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "os_family",
+            "value": "text"
+        },
+        "AAO": {
+            "caption": "OS version",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "os_version",
+            "value": "text"
+        },
+        "AAP": {
+            "caption": "OS architecture",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "os_architecture",
+            "value": "text"
+        }
+    }
+}
